@@ -173,6 +173,12 @@ html, body{
     background-color: red;
 }
 
+#fright .images img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
 .btndiv{
     display: flex;
     align-items: center;
